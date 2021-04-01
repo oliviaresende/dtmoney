@@ -35,7 +35,7 @@ Project for control of finances.
 3. **Access the repository**:
 
 ```
-  cd dmoney
+  cd dtmoney
 ```
 
 4. **Install your project's dependencies** by typing in the terminal:
@@ -47,7 +47,7 @@ Project for control of finances.
 5. And finally, give the command to **run** your project:
 
 ```
-  yarn dev
+  yarn start
 ```
 
  > *Note: The project will run on http://localhost:3000*
